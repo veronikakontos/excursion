@@ -1,3 +1,7 @@
-git remote add origin https://github.com/veronikakontos/excursion.git
-git branch -M 'main'
-git push -u origin 'main'
+
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
