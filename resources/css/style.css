@@ -1,7 +1,13 @@
 
 body {
-    background-color: black;
+    background-color:black;
     text-align: center;
     font-family: Verdana, Geneva, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+
+}
+.header--main {
+    font-weight: normal;
+    font-size: 50px;
+    color:aliceblue;
+
 }
